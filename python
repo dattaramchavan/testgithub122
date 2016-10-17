@@ -1,0 +1,3 @@
+dict1={'roll no':122,'name':'abc'}
+dict1.clear()
+print("length=",len(dict1))
